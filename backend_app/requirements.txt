@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+python-multipart
+mysql-connector-python
+pydantic[email]
+aiohttp
